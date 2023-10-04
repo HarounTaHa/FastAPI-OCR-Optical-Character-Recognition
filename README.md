@@ -13,7 +13,6 @@
 To perform text recognition (OCR = optical character recognition)
 
 - [Tesseract OCR.](https://github.com/UB-Mannheim/tesseract)
-  This project is a starting point for a Flutter application. Mainly depends store data on firebase cloud.
 
 ## Socials
 
